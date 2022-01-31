@@ -1,0 +1,22 @@
+body {
+    background-image: url("../assets/jpeg/background-nosotras.jpeg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+iframe {
+    border: 1px solid #000;
+    width: 100% !important;
+    display: block !important;
+}
+
+canvas {
+    width: 100% !important;
+    height: auto !important;
+    outline: none;
+}
+
+#canvas3d {
+    width: 100% !important;
+}
