@@ -6,7 +6,6 @@ iframe {
 canvas {
     width: auto !important;
     height: auto !important;
-    border: 5px solid red;
 }
 
 #canvas3d {
