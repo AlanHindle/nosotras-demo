@@ -1,3 +1,8 @@
+iframe {
+    width: 100% !important;
+    display: block !important;
+}
+
 canvas {
     width: auto !important;
     height: auto !important;
@@ -6,18 +11,4 @@ canvas {
 #canvas3d {
     width: 100% !important;
     height: auto !important;
-}
-
-.spline-watermark {
-    position: absolute;
-    bottom: 16px;
-    right: 16px;
-    width: 32px;
-    height: 32px;
-    z-index: 2;
-    display: none !important;
-}
-
-a.spline-watermark {
-    display: none !important;
 }
